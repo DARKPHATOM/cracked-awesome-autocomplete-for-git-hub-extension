@@ -1,0 +1,42 @@
+# Hướng dẫn sử dụng
+
+## Cài đặt
+
+1. Cài đặt Node.js (phiên bản 14 trở lên)
+2. Cài đặt dependencies:
+   ```bash
+   npm install
+   ```
+
+## Cấu hình
+
+1. Tạo file `.env` trong thư mục gốc
+2. Thêm GitHub token vào file `.env`:
+   ```
+   GITHUB_TOKEN=your_github_token_here
+   ```
+
+## Cách lấy GitHub Token
+
+1. Vào GitHub Settings > Developer settings > Personal access tokens > Tokens (classic)
+2. Click "Generate new token (classic)"
+3. Chọn các quyền: repo, user
+4. Copy token và thêm vào file .env
+
+## Sử dụng
+
+1. Đảm bảo có thư mục `a1` trong project
+2. Chỉnh sửa file `name-and-desc.txt` với tên và mô tả repository
+3. Chạy script:
+   ```bash
+   npm start
+   ```
+
+## Kết quả
+
+Script sẽ:
+- Đọc thông tin từ `name-and-desc.txt`
+- Đổi tên thư mục `a1` thành tên repository
+- Nén thư mục thành file .zip
+- Tạo repository trên GitHub
+- Upload file `tutorial.txt` và file .zip lên repository
